@@ -21,3 +21,5 @@ Total params: 411,225
 Trainable params: 408,813
 Non-trainable params: 2,412
 _________________________________________________________________
+
+More details on https://blog.naver.com/ga06033/222487377375
